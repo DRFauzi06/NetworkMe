@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Dendi Rizal Fauzi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Connect">Connecting People From All Over The World</string>
+    <string name="Secure">Securing All Of Your Personal Data</string>
+    <string name="Speed">Faster Connection, Less Delay in Real Time</string>
+    <string name="name">Dendi Rizal Fauzi</string>
+    <string name="Description">A boy from countryside trying his luck in the city</string>
+    <string name="Description2">Computer Science</string>
+    <string name="Interest">Interest</string>
+    <string name="Hobby">Hobby</string>
+    <string name="Dream">Dream</string>
+    <string name="Read">Reading</string>
+    <string name="Music">Music</string>
+    <string name="Network">Network Administrator</string>
+    <string name="Friend">Friend</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Profile">Profile</string>
+    <string name="ProfileDesc">Born on 6th of September 2001, now  a Computer Science Student at Universitas Komputer Indonesia.</string>
+    <string name="Found">Found Me</string>
+    <string name="About">About Me</string>
+    <string name="Video">Video</string>
+    <string name="Home">Home</string>
+    <string name="Daily">Daily Activity</string>
+    <string name="Friends">My Friend</string>
+    <string name="About2">About Application</string>
+    <string name="aplikasi">Aplikasi ini dibuat untuk memenuhi tugas UTS mata kuliah AKB</string>
+    <string name="version">Aplikasi Versi : 1.00</string>
+    <string name="Exit">Exit</string>
+
+
+</resources>
