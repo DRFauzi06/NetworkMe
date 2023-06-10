@@ -11,8 +11,12 @@ import androidx.navigation.fragment.NavHostFragment
 
 import com.example.networkme.databinding.ActivityMain2Binding
 
-
-
+//Aplikasi dikerjakan dalam kurun waktu 05-06-2023 sampai 10-06-2023
+//3 hari membuat layouting tampilan
+//2 hari membuat fungsi fungsi
+//Nim   : 10120765
+//Nama  : Dendi Rizal Fauzi
+//Kelas : IF-9
 class MainActivity2 : AppCompatActivity() {
     private lateinit var binding : ActivityMain2Binding
 
